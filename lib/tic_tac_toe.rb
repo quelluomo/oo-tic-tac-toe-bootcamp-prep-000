@@ -95,12 +95,6 @@ def winner
     end
   end
   
-  def play
-  turns = 0
-  while turns < 9
-  turn
-  turns += 1
-end
-end  
+  
 
 end
